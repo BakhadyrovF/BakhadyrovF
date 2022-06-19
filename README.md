@@ -1,4 +1,21 @@
 ## Server-Side development as the meaning of life
-### Daily Knowledge - PHP, Laravel, Mysql - PostgreSQL, Redis
+### Daily Knowledge - PHP, Laravel, Mysql - PostgreSQL, Redis   
 
-![main-image](https://sd.keepcalms.com/i-w600/keep-calm-and-just-code-it.jpg "keep-calm")
+```php 
+
+final class Life
+{
+    public function toDo()
+    {
+        while (isUserAlive()) {
+            echo getUserStatus() !== 'calm'
+                ? 'calm'
+                : 'code it';
+        }    
+    }
+}
+    
+```
+
+<!-- ![main-image](https://sd.keepcalms.com/i-w600/keep-calm-and-just-code-it.jpg "keep-calm") -->
+
