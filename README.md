@@ -9,7 +9,7 @@ final class Life
     {
         while (isUserAlive()) {
             return getUserStatus() !== 'calm'
-                ? 'calm'
+                ? 'keep calm'
                 : 'code it';
         }    
     }
