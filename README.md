@@ -8,7 +8,7 @@ final class Life
     public function toDo()
     {
         while (isUserAlive()) {
-            echo getUserStatus() !== 'calm'
+            return getUserStatus() !== 'calm'
                 ? 'calm'
                 : 'code it';
         }    
