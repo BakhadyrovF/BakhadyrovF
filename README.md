@@ -1,4 +1,4 @@
-## Server-Side development as the meaning of life
+
 ### Daily Knowledge - PHP, Laravel, Mysql - PostgreSQL, Redis   
 
 ```php 
