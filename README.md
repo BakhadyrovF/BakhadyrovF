@@ -5,10 +5,10 @@
 
 final class Life
 {
-    public function toDo()
+    private function toDo()
     {
-        while (isUserAlive()) {
-            return getUserStatus() !== 'calm'
+        while (isAlive()) {
+            return getStatus() !== 'calm'
                 ? 'keep calm'
                 : 'code it';
         }    
@@ -17,5 +17,4 @@ final class Life
     
 ```
 
-<!-- ![main-image](https://sd.keepcalms.com/i-w600/keep-calm-and-just-code-it.jpg "keep-calm") -->
 
