@@ -1,5 +1,5 @@
 
-### Daily Knowledge - PHP, Laravel, MySQL - PostgreSQL, Redis   
+### Daily Knowledge - PHP, Laravel, MySQL / PostgreSQL, Redis   
 
 
 
